@@ -4,14 +4,14 @@ Repositório de tradução do site `svelte.dev` para o português brasileiro. El
 
 
 ## O que deve ser traduzido
-* [Tutorial] (https://svelte.dev/tutorial) no Svelte V3 ([GitHub] (https://github.com/sveltejs/svelte/tree/master/site/content/tutorial))
-* [Documentação] (https://svelte.dev/docs) no Svelte V3 ([GitHub] (https://github.com/sveltejs/svelte/tree/api-reference/site/content/docs))
-* [Documentação] (https://sapper.svelte.technology/guide) por Sapper ([GitHub] (https://github.com/sveltejs/sapper.svelte.technology/tree/master/content/guide))
-* [Exemplos] (https://svelte.dev/repl) ([GitHub] (https://github.com/sveltejs/svelte/tree/master/site/content/examples))
-* [Blog] (https://svelte.dev/blog) ([GitHub] (https://github.com/sveltejs/svelte/tree/master/site/content/blog))
-* Conteúdo do site [svelte.technology] (https://svelte.dev) ([GitHub] (https://github.com/sveltejs/svelte/tree/master/site/src))
-* Conteúdo do site [sapper.svelte.technology] (https://sapper.svelte.technology) ([GitHub] (https://github.com/sveltejs/sapper.svelte.technology/tree/master/src))
-* Conteúdo do site [svelte-native.technology] (https://svelte-native.technology) ([GitHub] (https://github.com/halfnelson/svelte-native/tree/master/docs_src/content))
+* [Tutorial](https://svelte.dev/tutorial) no Svelte V3 ([GitHub](https://github.com/sveltejs/svelte/tree/master/site/content/tutorial))
+* [Documentação](https://svelte.dev/docs) no Svelte V3 ([GitHub](https://github.com/sveltejs/svelte/tree/api-reference/site/content/docs))
+* [Documentação](https://sapper.svelte.technology/guide) por Sapper ([GitHub](https://github.com/sveltejs/sapper.svelte.technology/tree/master/content/guide))
+* [Exemplos](https://svelte.dev/repl) ([GitHub](https://github.com/sveltejs/svelte/tree/master/site/content/examples))
+* [Blog](https://svelte.dev/blog) ([GitHub](https://github.com/sveltejs/svelte/tree/master/site/content/blog))
+* Conteúdo do site [svelte.technology](https://svelte.dev) ([GitHub](https://github.com/sveltejs/svelte/tree/master/site/src))
+* Conteúdo do site [sapper.svelte.technology](https://sapper.svelte.technology) ([GitHub](https://github.com/sveltejs/sapper.svelte.technology/tree/master/src))
+* Conteúdo do site [svelte-native.technology](https://svelte-native.technology) ([GitHub](https://github.com/halfnelson/svelte-native/tree/master/docs_src/content))
 
 
 ## Como funcionam as traduções?
