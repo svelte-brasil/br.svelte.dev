@@ -1,0 +1,139 @@
+{
+    "src/routes/index.svelte":{
+
+        "Cybernetically enhanced web apps":
+        "Aplicações web automaticamente otimizadas.",
+
+        "Write less code":
+        "Menos código",
+
+        "Build boilerplate-free components using languages you already know — HTML, CSS and JavaScript":
+        "Construa componentes usando as linguagens que você já conhece — HTML, CSS e Javascript",
+
+        "No virtual DOM":
+        "Sem virtual DOM",
+
+        "Svelte compiles your code to tiny, framework-less vanilla JS — your app starts fast and stays fast":
+        "O Svelte compila seu código de forma enxuta em Vanilla JS — sua aplicação fica muito rápida",
+
+        "Truly reactive":
+        "Reativo de verdade",
+
+        "No more complex state management libraries — Svelte brings reactivity to JavaScript itself":
+        "Nada de bibliotecas complexas de gerenciamento de estados — Svelte usa a reatividade do próprio Javascript",
+
+        "compile step":
+        "etapa de compilação",
+
+        "Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the":
+        "Svelte usa uma nova abordagem para construir interfaces. Enquanto os frameworks tradicionais como React e Vue fazem o trabalho deles no",
+
+        "Svelte shifts that work into a":
+        "o Svelte direciona seus esforços para a",
+
+        "that happens when you build your app.":
+        "que ocorre quando você gera sua aplicação.",
+
+        "Instead of using techniques like virtual DOM diffing, Svelte writes code that surgically updates the DOM when the state of your app changes.":
+        "Ao invés de utilizar técnicas como o virtual DOM, o Svelte gera um codigo que atualiza o DOM sempre o estado da sua aplicação muda.",
+
+        "<p><a href=\"blog/svelte-3-rethinking-reactivity\">Read the introductory blog post</a> to learn more.</p>": 
+        "<p><a href=\"blog/svelte-3-rethinking-reactivity\">Leia o post introdutório no blog</a> para saber mais.</p>",
+
+        "my-svelte-project":
+        "meu-projeto-svelte",
+
+        "# or download and extract": 
+        "# ou faça o download e",
+
+        "this .zip file":
+        "este arquivo compactado",
+        
+        "quickstart guide":
+        "Guia Rápido",
+
+        "See the":
+        "Veja o",
+        
+        "for more information.":
+        "para mais informações",
+
+        "Learn Svelte":
+        "Conheça o Svelte",
+
+        "<p>Svelte components are built on top of HTML. Just add data.</p>":
+        "<p>Os componentes Svelte são montados em cima do HTML. Apenas adicione os dados.</p>",
+
+        "<p>CSS is component-scoped by default — no more style collisions or specificity wars. Or you can <a href=\"/blog/svelte-css-in-js\">use your favourite CSS-in-JS library</a>.</p>":
+        "<p>CSS é restrito ao componente por padrão — nada de conflitos de estilização. E você pode <a href=\"/blog/svelte-css-in-js\">A sua biblioteca CSS favorita</a>.</p>",
+
+        "<p>Trigger efficient, granular updates by assigning to local variables. The compiler does the rest.</p>":
+        "<p>Faça atualizações de forma eficiente utilizando variáveis locais. O compiler faz o restante.</p>",
+
+        "<p>Build beautiful UIs with a powerful, performant transition engine built right into the framework.</p>":
+        "<p>Gere belas UIs com uma poderosa e performática mecânica de transição integrada com o framework.</p>",
+
+        "Who's using Svelte?":
+        "Quem está utilizando Svelte?",
+
+        "<h3>Contributors</h3>":
+        "<h3>Contribuições</h3>",
+
+        "Svelte is free and open source software, made possible by the work of dozens of volunteers.":
+        "Svelte é gratuito e open-source, graças a ajuda de dezenas de voluntários.",
+
+        "Join us!":
+        "Junte-se a nós!",
+
+        "learn more":
+        "saiba mais"
+
+    },
+
+    "src/routes/_layout.svelte":{
+
+        "<Nav {segment}":
+        "<Nav home=\"Svelte\" home_title=\"Início\" {segment}",
+
+        ">Examples<":
+        ">Exemplos<",
+
+        "https://sapper.svelte.dev":
+        "https://br.sapper.svelte.dev"
+
+    },
+
+    "src/routes/tutorial/[slug]/index.svelte": {
+
+        "sveltejs/svelte/tree/master/site/content/tutorial":
+        "svelte-brasil/br.svelte.dev/tree/master/patch/content/tutorial"
+
+    },
+
+    "src/routes/blog/index.svelte": {
+
+        "Read the article":
+        "Ler artigo",
+
+        "Latest post":
+        "Últimas postagens",
+
+        "Older posts":
+        "Postagens anteriores"
+
+    },
+
+    "src/routes/repl/[id]/index.svelte": {
+
+        "Loading...":
+        "Carregando..."
+
+    },
+
+    "src/routes/docs/index.svelte": {
+
+        "<Docs {sections}/>":
+        "<Docs owner=\"svelte-brasil\" project=\"br.svelte.dev\" path=\"/patch/content/\" edit_title=\"edit this chapter\" {sections}/>"
+
+    }
+}

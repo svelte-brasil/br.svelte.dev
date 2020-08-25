@@ -1,0 +1,1 @@
+<p>...não afetam este elemento.</p>

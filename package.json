@@ -1,0 +1,17 @@
+{
+  "name": "br-svelte.dev",
+  "description": "Template of the br.svelte.dev site translation",
+  "scripts": {
+    "download": "trpatcher download",
+    "apply": "trpatcher apply",
+    "dsa": "trpatcher download && trpatcher setup && trpatcher apply",
+    "das": "trpatcher download && trpatcher apply && trpatcher setup",
+    "setup": "trpatcher setup",
+    "dev": "trpatcher dev",
+    "start": "trpatcher start",
+    "build": "trpatcher build"
+  },
+  "dependencies": {
+    "trpatcher": "^1.0.6"
+  }
+}
